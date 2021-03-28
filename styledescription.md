@@ -3,7 +3,7 @@ In order to style a map that reflects the colors and brand of healthy ride I too
 - First, I used Canva's color palette generator to extract the theme colors from Healthy Ride's landing page. I decided on an image from the website scroll that includes a bike as it would lend itself to denoting infastructure on a map, as well as the stable image of Healthy Ride. The color breakdown is as follows:
 ![healthy ride color palette](https://raw.githubusercontent.com/mkay1016/portfolio/main/healthyridecolors.jpg)
 
--From there I used the Google Styling Wizard to create a base map. I started with the 'reto' style as the starting colors and fonts were similar to those of Healthy Ride. 
+-From there I used the Google Styling Wizard to create a base map. I started with the 'retro' style as the starting colors and fonts were similar to those of Healthy Ride. 
 - I changed each of the major features of the map to take on one of the four thematic colors through an eyedropper tool. The staple Healthy Ride blue defined water, while the graident of neturals defined infastructure and natural land use. 
 - When I changed the basemap colors the zoom view was effected, but on further inspection this layout better defined the suburban versus urban divide, which could actually be useful for an urban bike share system like Healthy Ride and its users. 
 - Then I made a JSON file for the style 
