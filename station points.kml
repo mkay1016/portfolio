@@ -1,0 +1,2440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>station points</name>
+    <Style id="icon-1522-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1522-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1522-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1522-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1522-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name><![CDATA[Liberty Ave & Stanwix St]]></name>
+      <description><![CDATA[Station #: 1000<br># of Racks: 16<br>Latitude: 40.441326<br>Longitude: -80.004679]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1000.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>16.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.441326</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-80.004679</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -80.004679,40.441326,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Forbes Ave & Market Square]]></name>
+      <description><![CDATA[Station #: 1001<br># of Racks: 19<br>Latitude: 40.440877<br>Longitude: -80.00308]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1001.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>19.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.440877</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-80.00308</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -80.00308,40.440877,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Third Ave & Wood St]]></name>
+      <description><![CDATA[Station #: 1002<br># of Racks: 15<br>Latitude: 40.43903<br>Longitude: -80.00186]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1002.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>15.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.43903</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-80.00186</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -80.00186,40.43903,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[First Ave & Smithfield St (Art Institute)]]></name>
+      <description><![CDATA[Station #: 1003<br># of Racks: 15<br>Latitude: 40.4372<br>Longitude: -80.000375]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1003.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>15.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.4372</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-80.000375</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -80.000375,40.4372,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[First Ave & B St (T Station)]]></name>
+      <description><![CDATA[Station #: 1004<br># of Racks: 15<br>Latitude: 40.435887<br>Longitude: -79.997102]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1004.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>15.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.435887</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.997102</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.997102,40.435887,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Forbes Ave & Grant St]]></name>
+      <description><![CDATA[Station #: 1005<br># of Racks: 13<br>Latitude: 40.438882<br>Longitude: -79.997592]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1005.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>13.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.438882</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.997592</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.997592,40.438882,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Ross St & Sixth Ave (Steel Plaza T Station)]]></name>
+      <description><![CDATA[Station #: 1006<br># of Racks: 7<br>Latitude: 40.440193<br>Longitude: -79.995084]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1006.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>7.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.440193</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.995084</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.995084,40.440193,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Stevenson St & Forbes Ave]]></name>
+      <description><![CDATA[Station #: 1007<br># of Racks: 15<br>Latitude: 40.437643<br>Longitude: -79.986695]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1007.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>15.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.437643</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.986695</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.986695,40.437643,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Centre Ave & PPG Paints Arena]]></name>
+      <description><![CDATA[Station #: 1008<br># of Racks: 5<br>Latitude: 40.440368<br>Longitude: -79.988636]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1008.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>5.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.440368</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.988636</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.988636,40.440368,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[12th St & Penn Ave]]></name>
+      <description><![CDATA[Station #: 1009<br># of Racks: 19<br>Latitude: 40.445844<br>Longitude: -79.99238]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1009.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>19.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.445844</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.99238</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.99238,40.445844,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[10th St & Penn Ave (David L. Lawrence Convention Center)]]></name>
+      <description><![CDATA[Station #: 1010<br># of Racks: 15<br>Latitude: 40.444665<br>Longitude: -79.995798]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1010.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>15.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.444665</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.995798</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.995798,40.444665,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Fort Duquesne Blvd & 7th]]></name>
+      <description><![CDATA[Station #: 1011<br># of Racks: 15<br>Latitude: 40.444777<br>Longitude: -80.000831]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1011.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>15.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.444777</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-80.000831</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -80.000831,40.444777,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[North Shore Trail & Ft Duquesne Bridge]]></name>
+      <description><![CDATA[Station #: 1012<br># of Racks: 31<br>Latitude: 40.445834<br>Longitude: -80.008882]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1012.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>31.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.445834</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-80.008882</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -80.008882,40.445834,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Isabella St & Federal St (PNC Park)]]></name>
+      <description><![CDATA[Station #: 1013<br># of Racks: 15<br>Latitude: 40.447166<br>Longitude: -80.003566]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1013.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>15.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.447166</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-80.003566</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -80.003566,40.447166,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Ridge Ave & Brighton Rd (CCAC)]]></name>
+      <description><![CDATA[Station #: 1014<br># of Racks: 19<br>Latitude: 40.450595<br>Longitude: -80.013204]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1014.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>19.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.450595</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-80.013204</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -80.013204,40.450595,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Federal St & E North Ave]]></name>
+      <description><![CDATA[Station #: 1015<br># of Racks: 12<br>Latitude: 40.455266<br>Longitude: -80.007076]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1015.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>12.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.455266</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-80.007076</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -80.007076,40.455266,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[17th St & Penn Ave]]></name>
+      <description><![CDATA[Station #: 1016<br># of Racks: 19<br>Latitude: 40.449631<br>Longitude: -79.985893]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1016.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>19.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.449631</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.985893</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.985893,40.449631,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[21st St & Penn Ave]]></name>
+      <description><![CDATA[Station #: 1017<br># of Racks: 18<br>Latitude: 40.451742<br>Longitude: -79.983217]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1017.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>18.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.451742</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.983217</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.983217,40.451742,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Butler St & Stanton Ave]]></name>
+      <description><![CDATA[Station #: 1018<br># of Racks: 5<br>Latitude: 40.47815<br>Longitude: -79.9557]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1018.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>5.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.47815</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.9557</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.9557,40.47815,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[42nd St & Butler St]]></name>
+      <description><![CDATA[Station #: 1019<br># of Racks: 17<br>Latitude: 40.47021248<br>Longitude: -79.96066332]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1019.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>17.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.47021248</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.96066332</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.96066332,40.47021248,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[42nd St & Penn Ave (Children's Hospital)]]></name>
+      <description><![CDATA[Station #: 1020<br># of Racks: 8<br>Latitude: 40.465893<br>Longitude: -79.954417]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1020.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>8.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.465893</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.954417</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.954417,40.465893,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Taylor St & Liberty Ave]]></name>
+      <description><![CDATA[Station #: 1021<br># of Racks: 19<br>Latitude: 40.462769<br>Longitude: -79.950867]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1021.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>19.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.462769</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.950867</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.950867,40.462769,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Liberty Ave & S Millvale (West Penn Hospital)]]></name>
+      <description><![CDATA[Station #: 1022<br># of Racks: 15<br>Latitude: 40.459812<br>Longitude: -79.945548]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1022.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>15.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.459812</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.945548</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.945548,40.459812,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Liberty Ave & Baum Blvd]]></name>
+      <description><![CDATA[Station #: 1023<br># of Racks: 15<br>Latitude: 40.456505<br>Longitude: -79.939362]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1023.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>15.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.456505</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.939362</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.939362,40.456505,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[S Negley Ave & Baum Blvd]]></name>
+      <description><![CDATA[Station #: 1024<br># of Racks: 17<br>Latitude: 40.458714<br>Longitude: -79.933483]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1024.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>17.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.458714</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.933483</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.933483,40.458714,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Penn Ave & N Fairmount St]]></name>
+      <description><![CDATA[Station #: 1025<br># of Racks: 15<br>Latitude: 40.464443<br>Longitude: -79.933188]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1025.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>15.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.464443</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.933188</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.933188,40.464443,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Penn Ave & S Whitfield St]]></name>
+      <description><![CDATA[Station #: 1026<br># of Racks: 13<br>Latitude: 40.461603<br>Longitude: -79.925624]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1026.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>13.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.461603</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.925624</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.925624,40.461603,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Shady Ave & Ellsworth Ave]]></name>
+      <description><![CDATA[Station #: 1027<br># of Racks: 19<br>Latitude: 40.458972<br>Longitude: -79.922023]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1027.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>19.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.458972</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.922023</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.922023,40.458972,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Penn Ave & Putnam St (Bakery Square)]]></name>
+      <description><![CDATA[Station #: 1028<br># of Racks: 8<br>Latitude: 40.455821<br>Longitude: -79.915248]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1028.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>8.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.455821</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.915248</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.915248,40.455821,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alder St & S Higland Ave]]></name>
+      <description><![CDATA[Station #: 1029<br># of Racks: 19<br>Latitude: 40.457415<br>Longitude: -79.92492]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1029.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>19.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.457415</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.92492</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.92492,40.457415,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Maryland Ave & Ellsworth Ave]]></name>
+      <description><![CDATA[Station #: 1031<br># of Racks: 19<br>Latitude: 40.45628<br>Longitude: -79.930962]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1031.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>19.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.45628</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.930962</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.930962,40.45628,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Walnut St & College St]]></name>
+      <description><![CDATA[Station #: 1032<br># of Racks: 14<br>Latitude: 40.453382<br>Longitude: -79.92731]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1032.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>14.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.453382</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.92731</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.92731,40.453382,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Ivy St & Walnut St]]></name>
+      <description><![CDATA[Station #: 1033<br># of Racks: 19<br>Latitude: 40.45177<br>Longitude: -79.932324]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1033.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>19.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.45177</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.932324</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.932324,40.45177,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Ellsworth Ave & N Neville St]]></name>
+      <description><![CDATA[Station #: 1034<br># of Racks: 15<br>Latitude: 40.448419<br>Longitude: -79.947401]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1034.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>15.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.448419</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.947401</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.947401,40.448419,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Fifth Ave & S Dithridge St]]></name>
+      <description><![CDATA[Station #: 1035<br># of Racks: 8<br>Latitude: 40.446744<br>Longitude: -79.950881]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1035.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>8.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.446744</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.950881</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.950881,40.446744,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Schenley Dr at Schenley Plaza (Carnegie Library Main)</name>
+      <description><![CDATA[Station #: 1036<br># of Racks: 19<br>Latitude: 40.442398<br>Longitude: -79.951479]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1036.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>19.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.442398</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.951479</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.951479,40.442398,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Frew St & Schenley Dr]]></name>
+      <description><![CDATA[Station #: 1037<br># of Racks: 20<br>Latitude: 40.441032<br>Longitude: -79.948042]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1037.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>20.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.441032</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.948042</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.948042,40.441032,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Boulevard of the Allies & Parkview Ave]]></name>
+      <description><![CDATA[Station #: 1038<br># of Racks: 19<br>Latitude: 40.434338<br>Longitude: -79.951877]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1038.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>19.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.434338</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.951877</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.951877,40.434338,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Atwood St & Bates]]></name>
+      <description><![CDATA[Station #: 1039<br># of Racks: 8<br>Latitude: 40.437987<br>Longitude: -79.95367]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1039.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>8.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.437987</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.95367</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.95367,40.437987,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[O'Hara St and University Place (Soldiers and Sailors Memorial)]]></name>
+      <description><![CDATA[Station #: 1040<br># of Racks: 21<br>Latitude: 40.445128<br>Longitude: -79.957102]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1040.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>21.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.445128</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.957102</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.957102,40.445128,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Fifth Ave & S Bouquet St]]></name>
+      <description><![CDATA[Station #: 1041<br># of Racks: 19<br>Latitude: 40.442325<br>Longitude: -79.957604]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1041.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>19.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.442325</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.957604</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.957604,40.442325,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Centre Ave & Kirkpatrick St]]></name>
+      <description><![CDATA[Station #: 1042<br># of Racks: 12<br>Latitude: 40.445236<br>Longitude: -79.976911]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1042.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>12.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.445236</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.976911</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.976911,40.445236,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[S Millvale Ave & Centre Ave]]></name>
+      <description><![CDATA[Station #: 1043<br># of Racks: 13<br>Latitude: 40.45351<br>Longitude: -79.94747]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1043.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>13.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.45351</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.94747</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.94747,40.45351,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Zulema St & Coltart Ave]]></name>
+      <description><![CDATA[Station #: 1044<br># of Racks: 19<br>Latitude: 40.435986<br>Longitude: -79.956942]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1044.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>19.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.435986</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.956942</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.956942,40.435986,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[S 27th St & Sidney St. (Southside Works)]]></name>
+      <description><![CDATA[Station #: 1045<br># of Racks: 19<br>Latitude: 40.4279<br>Longitude: -79.966112]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1045.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>19.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.4279</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.966112</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.966112,40.4279,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[S 25th St & E Carson St]]></name>
+      <description><![CDATA[Station #: 1046<br># of Racks: 19<br>Latitude: 40.42802<br>Longitude: -79.969799]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1046.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>19.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.42802</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.969799</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.969799,40.42802,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[S 22nd St & E Carson St]]></name>
+      <description><![CDATA[Station #: 1047<br># of Racks: 19<br>Latitude: 40.428576<br>Longitude: -79.974559]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1047.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>19.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.428576</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.974559</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.974559,40.428576,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[S 18th St & Sidney St]]></name>
+      <description><![CDATA[Station #: 1048<br># of Racks: 16<br>Latitude: 40.429338<br>Longitude: -79.980684]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1048.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>16.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.429338</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.980684</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.980684,40.429338,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[S 12th St & E Carson St]]></name>
+      <description><![CDATA[Station #: 1049<br># of Racks: 19<br>Latitude: 40.428661<br>Longitude: -79.986358]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1049.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>19.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.428661</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.986358</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.986358,40.428661,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[McNulty Dr & Forbes Ave]]></name>
+      <description><![CDATA[Station #: 1052<br># of Racks: 6<br>Latitude: 40.4377657<br>Longitude: -79.9906531]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1052.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>6.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.4377657</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.9906531</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.9906531,40.4377657,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Hamilton Ave & Zodiac Way]]></name>
+      <description><![CDATA[Station #: 1053<br># of Racks: 5<br>Latitude: 40.45803<br>Longitude: -79.9112]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1053.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>5.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.45803</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.9112</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.9112,40.45803,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Smithfield St & Fourth Ave]]></name>
+      <description><![CDATA[Station #: 1054<br># of Racks: 6<br>Latitude: 40.43866<br>Longitude: -79.9997]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1054.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>6.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.43866</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.9997</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.9997,40.43866,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Wood St & Sixth Ave]]></name>
+      <description><![CDATA[Station #: 1056<br># of Racks: 7<br>Latitude: 40.44197<br>Longitude: -79.9997]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1056.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>7.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.44197</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.9997</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.9997,40.44197,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Burns White Centre at 3 Crossings</name>
+      <description><![CDATA[Station #: 1059<br># of Racks: 12<br>Latitude: 40.45632767<br>Longitude: -79.98021126]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1059.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>12.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.45632767</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.98021126</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.98021126,40.45632767,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Penn Ave and 29th St</name>
+      <description><![CDATA[Station #: 1060<br># of Racks: 8<br>Latitude: 40.45814812<br>Longitude: -79.97383833]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1060.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>8.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.45814812</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.97383833</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.97383833,40.45814812,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>33rd St and Penn Ave</name>
+      <description><![CDATA[Station #: 1061<br># of Racks: 6<br>Latitude: 40.4620256<br>Longitude: -79.9681145]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1061.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>6.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.4620256</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.9681145</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.9681145,40.4620256,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[S Winebiddle St & Penn Ave]]></name>
+      <description><![CDATA[Station #: 1062<br># of Racks: 5<br>Latitude: 40.46473563<br>Longitude: -79.94282663]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1062.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>5.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.46473563</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.94282663</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.94282663,40.46473563,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Penn Ave & N Atlantic Ave]]></name>
+      <description><![CDATA[Station #: 1063<br># of Racks: 5<br>Latitude: 40.46460503<br>Longitude: -79.9387604]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1063.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>5.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.46460503</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.9387604</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.9387604,40.46460503,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Frankstown Ave & E Liberty Blvd]]></name>
+      <description><![CDATA[Station #: 1064<br># of Racks: 6<br>Latitude: 40.46089095<br>Longitude: -79.91583824]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1064.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>6.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.46089095</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.91583824</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.91583824,40.46089095,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[N Homewood Ave & Finance St (Homewood Station)]]></name>
+      <description><![CDATA[Station #: 1066<br># of Racks: 8<br>Latitude: 40.45304583<br>Longitude: -79.89847898]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1066.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>8.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.45304583</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.89847898</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.89847898,40.45304583,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Forbes Ave & Murray Ave]]></name>
+      <description><![CDATA[Station #: 1068<br># of Racks: 5<br>Latitude: 40.4380532<br>Longitude: -79.9229474]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1068.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>5.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.4380532</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.9229474</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.9229474,40.4380532,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Beacon St & Murray Ave]]></name>
+      <description><![CDATA[Station #: 1069<br># of Racks: 6<br>Latitude: 40.43531949<br>Longitude: -79.92288709]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1069.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>6.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.43531949</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.92288709</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.92288709,40.43531949,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Hobart St & Wightman St]]></name>
+      <description><![CDATA[Station #: 1070<br># of Racks: 5<br>Latitude: 40.43251029<br>Longitude: -79.92733955]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1070.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>5.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.43251029</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.92733955</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.92733955,40.43251029,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Glasshouse</name>
+      <description><![CDATA[Station #: 1072<br># of Racks: 10<br>Latitude: 40.43268995<br>Longitude: -80.00302076]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1072.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>10.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.43268995</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-80.00302076</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -80.00302076,40.43268995,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[South Side Trail & S 4th St]]></name>
+      <description><![CDATA[Station #: 1074<br># of Racks: 5<br>Latitude: 40.43128939<br>Longitude: -79.99526918]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1074.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>5.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.43128939</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.99526918</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.99526918,40.43128939,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Hot Metal St & Tunnel Blvd]]></name>
+      <description><![CDATA[Station #: 1084<br># of Racks: 13<br>Latitude: 40.42708753<br>Longitude: -79.96279836]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1084.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>13.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.42708753</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.96279836</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.96279836,40.42708753,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Frazier St & Dawson St]]></name>
+      <description><![CDATA[Station #: 1088<br># of Racks: 5<br>Latitude: 40.42968463<br>Longitude: -79.95414019]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1088.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>5.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.42968463</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.95414019</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.95414019,40.42968463,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Semple St & Louisa St]]></name>
+      <description><![CDATA[Station #: 1091<br># of Racks: 5<br>Latitude: 40.43874918<br>Longitude: -79.95703161]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1091.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>5.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.43874918</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.95703161</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.95703161,40.43874918,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[S Bouquet Ave & Sennott St]]></name>
+      <description><![CDATA[Station #: 1093<br># of Racks: 6<br>Latitude: 40.44136216<br>Longitude: -79.95555639]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1093.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>6.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.44136216</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.95555639</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.95555639,40.44136216,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[O'Hara St & Desoto St]]></name>
+      <description><![CDATA[Station #: 1094<br># of Racks: 5<br>Latitude: 40.44324426<br>Longitude: -79.95984256]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1094.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>5.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.44324426</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.95984256</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.95984256,40.44324426,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Schenley Dr & Forbes Ave (Schenley Plaza)]]></name>
+      <description><![CDATA[Station #: 1095<br># of Racks: 7<br>Latitude: 40.44301971<br>Longitude: -79.95331407]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1095.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>7.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.44301971</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.95331407</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.95331407,40.44301971,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Tennyson Ave & Fifth Ave]]></name>
+      <description><![CDATA[Station #: 1097<br># of Racks: 6<br>Latitude: 40.44564886<br>Longitude: -79.95327652]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1097.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>6.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.44564886</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.95327652</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.95327652,40.44564886,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Forbes Ave & S Craig St]]></name>
+      <description><![CDATA[Station #: 1099<br># of Racks: 5<br>Latitude: 40.44424448<br>Longitude: -79.94895279]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>1099.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>5.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.44424448</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.94895279</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.94895279,40.44424448,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Schenley Dr & Forbes Ave (Squirrel Hill)]]></name>
+      <description><![CDATA[Station #: 49251<br># of Racks: 6<br>Latitude: 40.43775296<br>Longitude: -79.93363738]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>49251.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>6.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.43775296</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.93363738</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.93363738,40.43775296,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Wightman St & Forbes Ave]]></name>
+      <description><![CDATA[Station #: 49261<br># of Racks: 5<br>Latitude: 40.43791627<br>Longitude: -79.92781162]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>49261.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>5.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.43791627</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.92781162</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.92781162,40.43791627,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[S Craig St & 5th Ave]]></name>
+      <description><![CDATA[Station #: 49271<br># of Racks: 6<br>Latitude: 40.446739<br>Longitude: -79.94893]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>49271.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>6.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.446739</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.94893</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.94893,40.446739,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Centre Ave & N Craig St]]></name>
+      <description><![CDATA[Station #: 49301<br># of Racks: 6<br>Latitude: 40.45186204<br>Longitude: -79.95173693]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>49301.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>6.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.45186204</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.95173693</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.95173693,40.45186204,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Hamilton Ave & N Dallas Ave]]></name>
+      <description><![CDATA[Station #: 49311<br># of Racks: 6<br>Latitude: 40.45623787<br>Longitude: -79.90505576]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>49311.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>6.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.45623787</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.90505576</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.90505576,40.45623787,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Bennett St & Eccrue Way]]></name>
+      <description><![CDATA[Station #: 49321<br># of Racks: 7<br>Latitude: 40.45668686<br>Longitude: -79.89813566]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>49321.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>7.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.45668686</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.89813566</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.89813566,40.45668686,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[E Liberty Blvd & Larimer Ave]]></name>
+      <description><![CDATA[Station #: 49371<br># of Racks: 6<br>Latitude: 40.46361735<br>Longitude: -79.91746902]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>49371.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>6.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.46361735</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.91746902</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.91746902,40.46361735,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[E Liberty Blvd & Negley Ave]]></name>
+      <description><![CDATA[Station #: 49391<br># of Racks: 5<br>Latitude: 40.4677154<br>Longitude: -79.92787]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>49391.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>5.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.4677154</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.92787</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.92787,40.4677154,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Stanton Ave & N Negley Ave]]></name>
+      <description><![CDATA[Station #: 49401<br># of Racks: 6<br>Latitude: 40.47122337<br>Longitude: -79.92560189]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>49401.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>6.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.47122337</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.92560189</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.92560189,40.47122337,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Roup Ave & Friendship Ave]]></name>
+      <description><![CDATA[Station #: 49441<br># of Racks: 5<br>Latitude: 40.46150726<br>Longitude: -79.93510187]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>49441.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>5.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.46150726</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.93510187</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.93510187,40.46150726,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Penn Ave & 39th St]]></name>
+      <description><![CDATA[Station #: 49501<br># of Racks: 6<br>Latitude: 40.46490704<br>Longitude: -79.96008396]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>49501.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>6.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.46490704</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.96008396</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.96008396,40.46490704,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Butler St & 48th St]]></name>
+      <description><![CDATA[Station #: 49561<br># of Racks: 6<br>Latitude: 40.47603982<br>Longitude: -79.95763779]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>49561.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>6.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.47603982</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.95763779</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.95763779,40.47603982,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Liberty Ave & 37th St]]></name>
+      <description><![CDATA[Station #: 49581<br># of Racks: 6<br>Latitude: 40.462184<br>Longitude: -79.96162]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>49581.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>6.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.462184</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.96162</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.96162,40.462184,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Smallman St & 31st St]]></name>
+      <description><![CDATA[Station #: 49601<br># of Racks: 6<br>Latitude: 40.46011138<br>Longitude: -79.97276008]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>49601.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>6.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.46011138</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.97276008</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.97276008,40.46011138,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[24th St & Smallman St]]></name>
+      <description><![CDATA[Station #: 49611<br># of Racks: 6<br>Latitude: 40.45400101<br>Longitude: -79.98171329]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>49611.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>6.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.45400101</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.98171329</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.98171329,40.45400101,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[14th St & Penn Ave]]></name>
+      <description><![CDATA[Station #: 49621<br># of Racks: 6<br>Latitude: 40.447208<br>Longitude: -79.989725]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>49621.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>6.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.447208</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.989725</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.989725,40.447208,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[11th St & Penn Ave]]></name>
+      <description><![CDATA[Station #: 49641<br># of Racks: 6<br>Latitude: 40.44475071<br>Longitude: -79.99391198]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>49641.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>6.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.44475071</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.99391198</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.99391198,40.44475071,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Grant St & Strawberry Way]]></name>
+      <description><![CDATA[Station #: 49651<br># of Racks: 7<br>Latitude: 40.44170511<br>Longitude: -79.99510288]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>49651.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>7.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.44170511</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.99510288</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.99510288,40.44170511,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[9th St & Penn Ave]]></name>
+      <description><![CDATA[Station #: 49671<br># of Racks: 5<br>Latitude: 40.44353412<br>Longitude: -79.99839664]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>49671.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>5.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.44353412</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.99839664</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.99839664,40.44353412,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Liberty Ave & 6th St]]></name>
+      <description><![CDATA[Station #: 49691<br># of Racks: 6<br>Latitude: 40.44193373<br>Longitude: -80.00207126]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>49691.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>6.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.44193373</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-80.00207126</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -80.00207126,40.44193373,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Third Ave & Stanwix St]]></name>
+      <description><![CDATA[Station #: 49701<br># of Racks: 5<br>Latitude: 40.44001486<br>Longitude: -80.00447989]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>49701.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>5.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.44001486</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-80.00447989</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -80.00447989,40.44001486,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Ross St & Fourth Ave]]></name>
+      <description><![CDATA[Station #: 49731<br># of Racks: 7<br>Latitude: 40.43766313<br>Longitude: -79.99629378]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>49731.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>7.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.43766313</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.99629378</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.99629378,40.43766313,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Fifth Ave & Miltenberger]]></name>
+      <description><![CDATA[Station #: 49781<br># of Racks: 6<br>Latitude: 40.43829598<br>Longitude: -79.98117685]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>49781.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>6.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.43829598</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.98117685</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.98117685,40.43829598,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Microsoft</name>
+      <description><![CDATA[Station #: 49801<br># of Racks: 6<br>Latitude: 40.45379691<br>Longitude: -79.99094009]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>49801.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>6.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.45379691</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.99094009</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.99094009,40.45379691,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Arch St & Jacksonia St]]></name>
+      <description><![CDATA[Station #: 49881<br># of Racks: 5<br>Latitude: 40.45777261<br>Longitude: -80.00945807]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>49881.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>5.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.45777261</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-80.00945807</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -80.00945807,40.45777261,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[W General Robinson St & Chuck Noll Way]]></name>
+      <description><![CDATA[Station #: 49921<br># of Racks: 5<br>Latitude: 40.44741245<br>Longitude: -80.01206517]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>49921.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>5.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.44741245</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-80.01206517</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -80.01206517,40.44741245,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Butler St & 36th St]]></name>
+      <description><![CDATA[Station #: 49951<br># of Racks: 6<br>Latitude: 40.46529884<br>Longitude: -79.96527672]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Station #">
+          <value>49951.0</value>
+        </Data>
+        <Data name="# of Racks">
+          <value>6.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>40.46529884</value>
+        </Data>
+        <Data name="Longitude">
+          <value>-79.96527672</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -79.96527672,40.46529884,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
