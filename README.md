@@ -14,3 +14,4 @@ This is my portfolio for advanced GIS class
   In terms of visualizations, I would also like to produce a more professional looking product. As is, my maps tend to look a little elementary and very purple. I would like to better hone the finishing elements of map creation as well as learn more about complementary color tools to assure my maps are not overwhemlingly purple. Like I have been able to hone in my writing style over time, I would like to use this as an opportunity to take greater control over my design skill, especially in mapping. 
 
 # portfolio
+[Healthy Ride Station Map](https://mkay1016.github.io/portfolio/healthyride.html)
