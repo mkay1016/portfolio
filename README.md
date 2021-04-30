@@ -16,5 +16,5 @@ This is my portfolio for advanced GIS class
 
 # portfolio
 [Healthy Ride Station Map](https://mkay1016.github.io/portfolio/healthyride.html)
-<body style="background-color:purple;">
+<body style="background-color:#d0bfd8;">
 </body>
