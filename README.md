@@ -1,4 +1,4 @@
- <body style="background-color:grey;">
+
 # portfolio
 
 This is my portfolio for advanced GIS class
@@ -16,4 +16,5 @@ This is my portfolio for advanced GIS class
 
 # portfolio
 [Healthy Ride Station Map](https://mkay1016.github.io/portfolio/healthyride.html)
+<body style="background-color:purple;">
 </body>
