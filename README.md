@@ -37,6 +37,8 @@ Then, using ArcGIS Insights, I explored the connections between opioid distribut
 ![opioid links static map](https://raw.githubusercontent.com/mkay1016/portfolio/main/ass2.1.jpg)
 
 ## Spatial Data Science 
+
+
 ![election prediction](https://github.com/mkay1016/portfolio/blob/main/iowa.jpg)
 
 ## Final Project
