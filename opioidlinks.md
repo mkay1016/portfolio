@@ -1,7 +1,7 @@
 # The stark connections between distributers and pharmacies in Mingo County, West Virgina 
 ---
 
-<iframe src="https://insights.arcgis.com/#/embed/483f307ccea5422992b14daaf40a0012" width="830" height="830" frameborder="0"></iframe>
+<iframe src="https://insights.arcgis.com/#/embed/3825052c13294ac8b8ea1e533c1abaef" width="830" height="830" frameborder="0"></iframe>
 
 While I've learned to never really trust self-proclaimed user-friendly tools, I found Insights lived up to the promise. After just the opioid investigation and tutorial I feel comfortable beginning to use this tool for other projects. As someone who benefits from the spatial depiction of data - otherwise my eyes can glaze over at spreadsheets – Insight’s presentation of different data visualizations is appealing and looks more comprehensive than combining maps and charts from several different sources. Dashboards seem to be growing in popularity across industries, as presenting data in this integrated manner provides a synthesized summary for managers. However, I do not have enough experience with Tableau to thoroughly compare the two. My presentation (Links to an external site.)  discussion considers the comparison between Pro and Insights in depth.
 
