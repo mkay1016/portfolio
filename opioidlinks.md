@@ -7,7 +7,7 @@ While I've learned to never really trust self-proclaimed user-friendly tools, I 
 
 When it comes to deciding whether to use ArcGIS Pro or Insights (assuming access to both) I will likely decide based on the size and scope of the project, the depth of layers and spatial analysis necessary, the deadline, and the expected deliverable. For instance, for an interview I was recently asked to do a cursory study of employment trends across Allegheny County municipalities. As charts and graphs were necessary in addition to a map, Insights would be the better fit as the objective was to produce high-level takeaways. Also, the automatic linking feature, as used to display the pathway of opioids from distributers and pharmacies, is major benefit of Insights.
 
-
+![opioid links static map](https://raw.githubusercontent.com/mkay1016/portfolio/main/ass2.1.jpg)
 This feature could also work in the above case, displaying movement of jobs or people, especially on a local level like a county as seen in Mingo.
 
    However, if I was considering industry clusters on a larger scale or the deliverable was all spatial, such as kernel densities or heat maps I’d likely stick with ArcGIS Pro. As I work around the urban Planning world, Pro is still attractive as it is industry standard and shared with other map geeks. For instance, for my systems project a few of us each made independent layers (businesses, parcel outlines, parking) and are combining them into one major map in Pro. While perhaps less client ready than an Insights equivalent, it has been very useful for us to analyze the relationships between each of these large features.
