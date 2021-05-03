@@ -30,6 +30,8 @@ Then, using Google's My Maps, I built out a custom, dynamic map that visualizes 
 ### Custom Style Map
 During an in class excercise we took custom styling even further, by branding a map of summer festival locations sponsored by Kraken Rum. 
 [Kraken Rum Summer Brew Festivals](https://mkay1016.github.io/portfolio/VISITPGH.html)
+![Visit map static](https://raw.githubusercontent.com/mkay1016/portfolio/main/visitmap.jpg)
+
 
 
 ## Insights Connection
