@@ -36,7 +36,8 @@ During an in class excercise we took custom styling even further, by branding a 
 Then, using ArcGIS Insights, I explored the connections between opioid distributers and pharamcies in Mingo County, West Virginia to understand networks sustaining the opioid epidemic. 
 ![opioid links static map](https://raw.githubusercontent.com/mkay1016/portfolio/main/ass2.1.jpg)
 
-[Opioid Connection analysis](https://mkay1016.github.io/portfolio/opioidlinks.html)
+Insights is a powerful dashboard that allows for incorporating multiple means of data visualization and analysis:
+[Opioid Connection Insights Dashboard](https://mkay1016.github.io/portfolio/opioidlinks.html)
 
 ## Spatial Data Science 
 
