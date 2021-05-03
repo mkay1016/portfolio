@@ -16,7 +16,8 @@ This is my portfolio for advanced GIS class
 
 # portfolio
 
-## Custom Color Map
+## Customized Maps
+### Custom Color Map
 I started the mini by building out a custom map for Pittsburgh based bike share Healthy Ride.
 First, I considered Healthy Ride's color palette to inform map features:
 [Healthy Ride Style Choices](https://mkay1016.github.io/portfolio/styledescription.html)
