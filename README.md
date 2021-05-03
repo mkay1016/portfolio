@@ -39,12 +39,12 @@ During an in class excercise we took custom styling even further, by branding a 
 Then, using ArcGIS Insights, I explored the connections between opioid distributers and pharamcies in Mingo County, West Virginia to understand networks sustaining the opioid epidemic. 
 ![opioid links static map](https://raw.githubusercontent.com/mkay1016/portfolio/main/ass2.1.jpg)
 
-Insights is a powerful dashboard that allows for incorporating multiple means of data visualization and analysis:
+Insights is a powerful dashboard that allows for incorporating multiple means of data visualization and analysis:\
 [Opioid Connection Insights Dashboard](https://mkay1016.github.io/portfolio/opioidlinks.html)
 
 ## Spatial Data Science 
 
-Here's a thing I made about the election
+Result from the Esri MOOC on spatial data science on the topic of election predictions
 ![election prediction](https://raw.githubusercontent.com/mkay1016/portfolio/main/iowa.jpg)
 
 ## Final Project
