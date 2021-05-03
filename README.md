@@ -44,7 +44,7 @@ Insights is a powerful dashboard that allows for incorporating multiple means of
 
 ## Spatial Data Science 
 
-
+Here's a thing I made about the election
 ![election prediction](https://raw.githubusercontent.com/mkay1016/portfolio/main/iowa.jpg)
 
 ## Final Project
