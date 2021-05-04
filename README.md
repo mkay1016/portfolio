@@ -2,7 +2,7 @@
 # portfolio
 
 Welcome to my portfolio for advanced GIS class
-![cats](https://raw.githubusercontent.com/mkay1016/portfolio/main/cats.jpeg)
+
 
 # about me 
 
