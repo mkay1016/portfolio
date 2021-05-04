@@ -20,16 +20,16 @@ This is my portfolio for advanced GIS class
 ### Custom Color Map
 I started the mini by building out a custom map for Pittsburgh based bike share Healthy Ride.
 First, I considered Healthy Ride's color palette to inform map features:\
-[Healthy Ride Style Choices](https://mkay1016.github.io/portfolio/styledescription.html)
+Dive into the custom color decision process: [Healthy Ride Style Choices](https://mkay1016.github.io/portfolio/styledescription.html)
 
 ![healthy ride static map](https://raw.githubusercontent.com/mkay1016/portfolio/main/healthyridemap.jpg)
 
 Then, using Google's My Maps, I built out a custom, dynamic map that visualizes all the Healthy Ride stations across Pittsburgh.\
-[Healthy Ride Station Map](https://mkay1016.github.io/portfolio/healthyride.html)
+Explore points across Pittsburgh: [Healthy Ride Station Map](https://mkay1016.github.io/portfolio/healthyride.html)
 
 ### Custom Style Map
 During an in class excercise we took custom styling even further, by branding a map of summer festival locations sponsored by Kraken Rum. \
-[Kraken Rum Summer Brew Festivals](https://mkay1016.github.io/portfolio/VISITPGH.html)
+visit the dynamic view: [Kraken Rum Summer Brew Festivals](https://mkay1016.github.io/portfolio/VISITPGH.html)
 ![Visit map static](https://raw.githubusercontent.com/mkay1016/portfolio/main/visitmap.jpg)
 
 
@@ -40,7 +40,7 @@ Then, using ArcGIS Insights, I explored the connections between opioid distribut
 ![opioid links static map](https://raw.githubusercontent.com/mkay1016/portfolio/main/ass2.1.jpg)
 
 Insights is a powerful dashboard that allows for incorporating multiple means of data visualization and analysis:\
-[Opioid Connection Insights Dashboard](https://mkay1016.github.io/portfolio/opioidlinks.html)
+Evaluate the linkages: [Opioid Connection Insights Dashboard](https://mkay1016.github.io/portfolio/opioidlinks.html)
 
 ## Spatial Data Science 
 
