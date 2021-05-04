@@ -49,5 +49,10 @@ Result from the Esri MOOC on spatial data science on the topic of election predi
 
 ## Final Project
 
+![mall buffer static](https://raw.githubusercontent.com/mkay1016/portfolio/main/mallbuff.jpg)
+
+
+
+
 <body style="background-color:#d0bfd8;">
 </body>
