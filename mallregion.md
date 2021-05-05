@@ -4,10 +4,11 @@ Client Nonprofit Reimagine Turtle Creek (RTC) in the beginning stages of proposi
 
 ### The Objective
 Need #1: Discover the mall service area /
-
+![mall service area map](https://raw.githubusercontent.com/mkay1016/portfolio/main/mallbuff.jpg)
 
 Need #2: Analyze area consumer expenditure /
 <iframe src="https://insights.arcgis.com/#/embed/dbdbe7e43589402fbc0d1b45fcdcabce" width="100%" height="100%" frameborder="0"></iframe>
+
 Need #3: Identify where community engagement can occur/
 <iframe src="https://insights.arcgis.com/#/embed/cce2b130a78642339803039cd274127f" width="100%" height="100%" frameborder="0"></iframe>
 
