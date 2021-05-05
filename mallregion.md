@@ -3,13 +3,13 @@
 Client Nonprofit Reimagine Turtle Creek (RTC) in the beginning stages of proposing the Monroeville Mall rebrand as an ecomall and community focal point. As discussed, the next step in this process is kicking off a comprehensive community engagement process that asks community members to envision what they wish the future of the mall would look like. Given your organization is already at capacity and resources are limited, we respect that the cost of tools and upkeep is an important consideration. The project will likely require an additional survey and market analysis, given the reception of this first wave of work. 
 
 ### The Objective
-Need #1: Discover the mall service area /
+Need #1: Discover the mall service area 
 ![mall service area map](https://raw.githubusercontent.com/mkay1016/portfolio/main/mallbuff.jpg)
 
-Need #2: Analyze area consumer expenditure /
+Need #2: Analyze area consumer expenditure 
 <iframe src="https://insights.arcgis.com/#/embed/dbdbe7e43589402fbc0d1b45fcdcabce" width="100%" height="100%" frameborder="0"></iframe>
 
-Need #3: Identify where community engagement can occur/
+Need #3: Identify where community engagement can occur
 <iframe src="https://insights.arcgis.com/#/embed/cce2b130a78642339803039cd274127f" width="100%" height="100%" frameborder="0"></iframe>
 
 ### The Opportunity
