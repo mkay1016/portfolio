@@ -50,6 +50,7 @@ Result from the Esri MOOC on spatial data science on the topic of election predi
 
 ## Final Project
 
+[Mall region description](https://github.com/mkay1016/portfolio/blob/main/mallregion.html)
 ![mall buffer static](https://raw.githubusercontent.com/mkay1016/portfolio/main/mallbuff.jpg)
 
 
