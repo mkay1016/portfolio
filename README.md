@@ -63,6 +63,8 @@ Need #2: Analyze area consumer expenditure
 
 Need #3: Identify where community engagement can occur
 
+<iframe src="https://insights.arcgis.com/#/embed/cce2b130a78642339803039cd274127f" width="100%" height="600" frameborder="0"></iframe>
+
 ### The Opportunity
 Contextualizing your service area and role in the community informs this project. As an environmental advocacy nonprofit, you reference your service area as the physical watershed, but also acknowledge some flexibility in this designation given municipal and watershed lines do not always align. While the watershed overlaps with the mall, the mall service area pulls a wider audience. This is the premise for conducting a mapping exercise. Additionally, stakeholders responded well to data presented in map form during preliminary meetings. And, given you conduct community meetings as visioning sessions, maps can further serve as a means of community feedback. 
 Community input sought by the client so far is admittedly limited to existing contacts non representative of the area. Given the racial diversity of this region and the need for a wide audience for a mall to survive, this next round of community engagement must be comprehensive. Thus, an additional goal to aid in community meeting facilitation by creating a prototype of a means of receiving community feedback in respect of your capacity. 
