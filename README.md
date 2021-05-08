@@ -59,6 +59,8 @@ Need #1: Discover the mall service area
 
 Need #2: Analyze area consumer expenditure 
 
+<iframe src="https://insights.arcgis.com/#/embed/dbdbe7e43589402fbc0d1b45fcdcabce" width="100%" height="100%" frameborder="0"></iframe>
+
 Need #3: Identify where community engagement can occur
 
 ### The Opportunity
